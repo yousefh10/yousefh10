@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **yousefh10/yousefh10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👋 Hi, I'm Yousef Hammad
+- 🎓 3rd Year Software Engineer at University of Calgary
+- 🧠 Experienced in Java, C/C++, Python 
+- 📚 Currently expanding my skillset with web development 
+- 💬 Check out my website at [yousef-hammad.com](https://yousef-hammad.com/)
