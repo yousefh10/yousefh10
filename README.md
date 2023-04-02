@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - 🎓 3rd Year Software Engineer at University of Calgary
 - 🧠 Experienced in Java, C/C++, Python 
 - 📚 Currently expanding my skillset with web development 
-- 💬 Check out my website at [yousef-hammad.com](https://yousef-hammad.com/)
+- 💬 Check out my portfolio at [yousef-hammad.com](https://yousef-hammad.com/)
